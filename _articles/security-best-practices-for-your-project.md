@@ -1,4 +1,4 @@
----
+---ethereum issue template
 lang: en
 untranslated: true
 title: Security Best Practices for your Project
